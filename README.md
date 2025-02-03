@@ -8,7 +8,7 @@
 <p aign="center">
   <p align="center">A clone app of Zomato to practice HTML5 & CSS3.
     </p>
-  *<p align="center">Website: <a href="https://superaayush.github.io/Zomato-Clone/">Zomato-Clone</a></p>*
+ <h1><p align="center">Website: <a href="https://superaayush.github.io/Zomato-Clone/">Zomato-Clone</a></p></h1>
 </p>
 
 It is a beginner friendly project to start work upon, where you can learn:
